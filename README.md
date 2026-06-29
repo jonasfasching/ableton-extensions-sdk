@@ -36,6 +36,7 @@ These extensions only run on the **Ableton Live 12 beta** (12.4.5b3 or newer). T
 ## No guarantee
 
 These tools are free. They depend on Ableton's extension SDK, which is still in beta, so they may not work depending on your Ableton beta version and can break when Ableton updates. Provided as-is, with no guarantee that they work and no liability if anything goes wrong. Back up your projects before using them.
+All code was written with Claude Code.
 
 ---
 
